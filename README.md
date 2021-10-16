@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/JulioCesarMartinez-00/blog
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+2021-02-01_Binomial_Distribution.ipynb
 
 ### Markdown
 
@@ -11,7 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
+2021-02-01_Binomial_Distribution.ipynb
 # Header 1
 ## Header 2
 ### Header 3
