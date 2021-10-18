@@ -16,6 +16,10 @@ library('tidyverse')
 library('dplyr')
 ```
 
+```{r}
+head(iris)
+```
+
 
 ```markdown
 Syntax highlighted code block
